@@ -10,7 +10,8 @@ Fully Dynamic YOLO-style UI Vision Preview:
 
 ============================================================================================
 
-A high-performance C++ plugin that provides YOLO-style simulated object detection for NPCs in Unreal Engine 5.5.
+A high-performance C++ plugin that provides YOLO-style simulated object detection for NPCs in Unreal Engine 5.5 - 100% Offline & No costly ML AI Models, Just high-performance C++ and easy to use blueprints components.
+
 Actors can be marked with Detectable Components, and NPCs use Detector Components to scan their environment in real time, producing structured detection results and LLM-friendly context text.
 
 The system allows full customization of what information is included in each scan result — such as labels, descriptions, tags, distances, confidence values, and any additional metadata you choose to expose through Detectable Components.
@@ -27,6 +28,8 @@ Includes:
 - Blueprint-exposed detection results
 
 - fully dynamic real-time YOLO-style UI Overlay System
+
+- 100% Offline & No costly ML AI Models, Just high-performance C++ and easy to use blueprints components.
 
 - Automatic LLM context string generation
 
