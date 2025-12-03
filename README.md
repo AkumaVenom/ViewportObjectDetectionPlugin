@@ -24,6 +24,14 @@ Includes:
 
 =========================================================================
 
+Plugin Created By Justin Gilbert / AkumaVenom
+
+Donation/Tips https://www.paypal.me/akumacreative
+
+AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
+
+=========================================================================
+
 ✅ Step-by-Step Guide IMPORTANT (Disable CaptureData Plugin)
 
 1. Close Unreal Engine completely
