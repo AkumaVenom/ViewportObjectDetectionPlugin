@@ -2,13 +2,13 @@
 
 Copyright (c) 2025 Justin Gilbert (AkumaVenom)
 
-============================================================================================
+=============================================
 
 Fully Dynamic YOLO-style UI Vision Preview:
 
 <img width="3839" height="2159" alt="Screenshot 2025-12-04 093211" src="https://github.com/user-attachments/assets/6e55edfe-d668-4619-a0fe-081765a3e405" />
 
-============================================================================================
+=============================================
 
 A high-performance C++ plugin that provides YOLO-style simulated object detection for NPCs in Unreal Engine 5.5 - 100% Offline & No costly ML AI Models, Just high-performance C++ and easy to use blueprints components.
 
