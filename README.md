@@ -2,11 +2,22 @@
 
 Copyright (c) 2025 Justin Gilbert (AkumaVenom)
 
-A high-performance C++ plugin that provides YOLO-style simulated object detection for NPCs in Unreal Engine 5.5.
+=============================================
+
+Fully Dynamic YOLO-style UI Vision Preview:
+
+<img width="3839" height="2159" alt="Screenshot 2025-12-04 093211" src="https://github.com/user-attachments/assets/6e55edfe-d668-4619-a0fe-081765a3e405" />
+
+=============================================
+
+A high-performance C++ plugin that provides YOLO-style simulated object detection for NPCs in Unreal Engine 5.5 - 100% Offline & No costly ML AI Models, Just high-performance C++ and easy to use blueprints components.
+
 Actors can be marked with Detectable Components, and NPCs use Detector Components to scan their environment in real time, producing structured detection results and LLM-friendly context text.
 
 The system allows full customization of what information is included in each scan result — such as labels, descriptions, tags, distances, confidence values, and any additional metadata you choose to expose through Detectable Components.
 Control exactly what data your NPCs see.
+
+This Plugin also introduces a complete real-time detection overlay system, bringing fully dynamic YOLO-style UI vision to Unreal Engine. The v2.0 compiled plugin now includes built-in UI widgets and a ready-to-use detection HUD component that renders clean, scalable bounding boxes for all detected objects.
 
 Includes:
 
@@ -16,11 +27,25 @@ Includes:
 
 - Blueprint-exposed detection results
 
+- fully dynamic real-time YOLO-style UI Overlay System
+
+- 100% Offline & No costly ML AI Models, Just high-performance C++ and easy to use blueprints components.
+
 - Automatic LLM context string generation
 
 - Debug visualization (PIE + packaged)
 
 - Perfect for AI-driven games requiring NPC perception, narrative reasoning, or LLM-powered behavior systems.
+
+=========================================================================
+
+![1](https://github.com/user-attachments/assets/3d62dd03-0e35-4d52-989a-745a2b63f1fe)
+
+![2](https://github.com/user-attachments/assets/253a5876-19d0-442c-af24-3622bd321f92)
+
+![3](https://github.com/user-attachments/assets/60729b73-4fc6-4aa3-aeef-9a6080d9c4b2)
+
+![4](https://github.com/user-attachments/assets/522fdfc6-d9dc-4592-a4fe-130d3801c31e)
 
 =========================================================================
 
