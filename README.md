@@ -39,6 +39,16 @@ Includes:
 
 =========================================================================
 
+![1](https://github.com/user-attachments/assets/3d62dd03-0e35-4d52-989a-745a2b63f1fe)
+
+![2](https://github.com/user-attachments/assets/253a5876-19d0-442c-af24-3622bd321f92)
+
+![3](https://github.com/user-attachments/assets/60729b73-4fc6-4aa3-aeef-9a6080d9c4b2)
+
+![4](https://github.com/user-attachments/assets/522fdfc6-d9dc-4592-a4fe-130d3801c31e)
+
+=========================================================================
+
 Plugin Created By Justin Gilbert / AkumaVenom
 
 Donation/Tips https://www.paypal.me/akumacreative
