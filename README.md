@@ -4,7 +4,7 @@ Copyright (c) 2025 Justin Gilbert (AkumaVenom)
 
 -------------------------------------------------------------------------------------------------
 
-<img width="3839" height="2159" alt="Screenshot 2025-12-04 093211" src="https://github.com/user-attachments/assets/6e55edfe-d668-4619-a0fe-081765a3e405" />
+![Main](https://github.com/user-attachments/assets/b48070b3-5cf9-495f-a2e2-de37231496b4)
 
 -------------------------------------------------------------------------------------------------
 
