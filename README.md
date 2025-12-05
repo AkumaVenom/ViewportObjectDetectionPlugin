@@ -56,6 +56,8 @@ Everything is component-based, Blueprint-exposed, and designed for high performa
 
 ![4](https://github.com/user-attachments/assets/522fdfc6-d9dc-4592-a4fe-130d3801c31e)
 
+<img width="1278" height="743" alt="5" src="https://github.com/user-attachments/assets/d600a6d8-5c57-421d-81aa-9ac998e0991c" />
+
 -------------------------------------------------------------------------------------------------
 
 💡 Core Idea: You Define What “Detection” Means
