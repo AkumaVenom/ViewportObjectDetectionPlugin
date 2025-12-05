@@ -6,6 +6,8 @@ Copyright (c) 2025 Justin Gilbert (AkumaVenom)
 
 ![Main](https://github.com/user-attachments/assets/b48070b3-5cf9-495f-a2e2-de37231496b4)
 
+![main2](https://github.com/user-attachments/assets/e2223e1a-655b-4823-aa02-e17a0dd2897e)
+
 -------------------------------------------------------------------------------------------------
 
 Viewport Object Detection Plugin
