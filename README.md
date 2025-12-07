@@ -4,9 +4,13 @@ Copyright (c) 2025 Justin Gilbert (AkumaVenom)
 
 -------------------------------------------------------------------------------------------------
 
-![Main](https://github.com/user-attachments/assets/b48070b3-5cf9-495f-a2e2-de37231496b4)
+<img width="1920" height="1080" alt="Screenshot 2025-12-07 215603" src="https://github.com/user-attachments/assets/85042470-4be4-41d0-91ab-b59a6fc334ae" />
 
-![main2](https://github.com/user-attachments/assets/e2223e1a-655b-4823-aa02-e17a0dd2897e)
+<img width="1920" height="1080" alt="Screenshot 2025-12-07 220038" src="https://github.com/user-attachments/assets/84295ffa-3e3e-4899-a338-2b00ff950694" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-07 220139" src="https://github.com/user-attachments/assets/4b1ac93b-b751-44fa-a2eb-402f9a6b6930" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-07 215658" src="https://github.com/user-attachments/assets/e1e6e8c5-e5df-433b-936d-00560dd57a7d" />
 
 -------------------------------------------------------------------------------------------------
 
