@@ -303,10 +303,6 @@ Justin Gilbert / AkumaVenom
 
 If this plugin helps you, please consider ⭐ starring the repo or sharing it.
 
-Donation/Tips https://www.paypal.me/akumacreative
-
-AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
-
 -------------------------------------------------------------------------------------------------
 
 ⚠️ IMPORTANT Guide (Disable CaptureData Plugin)
